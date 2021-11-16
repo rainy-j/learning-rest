@@ -13,7 +13,7 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "dev": ""
+    "dev": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
